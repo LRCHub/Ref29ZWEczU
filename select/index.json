@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "寂しいの色",
+  "base_artist": "大原櫻子",
+  "createdAt": "2026-03-15T15:01:25.463445Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寂しいの色",
+      "artist": "大原櫻子",
+      "has_synced": false,
+      "path": "select/pl_01_寂しいの色_大原櫻子.txt"
+    }
+  ]
+}
